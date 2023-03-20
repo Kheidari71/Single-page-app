@@ -1,5 +1,5 @@
 /*mobile design 650px*/
-@media screen and (max-width: 650px) {
+@media screen and (min-width: 350px) {
 
   /*base style*/
   * {
